@@ -1,0 +1,16 @@
+AMQ8441: Display Cluster Queue Manager details.
+   CLUSQMGR(QM3)                         CHANNEL(TO.QM3.S)
+   CLUSTER(DEMO)                           SSLCIPH(TRIPLE_DES_SHA_US)
+   STATUS(INACTIVE)
+AMQ8441: Display Cluster Queue Manager details.
+   CLUSQMGR(QM3)                           CHANNEL(TO.QM3)
+   CLUSTER(DEMO)                           SSLCIPH( )
+   STATUS(INACTIVE)
+AMQ8441: Display Cluster Queue Manager details.
+   CLUSQMGR(QM1)                           CHANNEL(TO.QM1.S)
+   CLUSTER(DEMO)                           DEFTYPE(CLUSSDRB)
+   SSLCIPH(TRIPLE_DES_SHA_US)                       STATUS(RUNNING)
+AMQ8441: Display Cluster Queue Manager details.
+   CLUSQMGR(QM1)                           CHANNEL(TO.QM1)
+   CLUSTER(DEMO)                           DEFTYPE(CLUSSDRB)
+   SSLCIPH( )                              STATUS(RUNNING)
